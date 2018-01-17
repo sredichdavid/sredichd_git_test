@@ -6,3 +6,4 @@ From: Flint, Michigan
 Programming Background: Python, C++
 
 Nicolas Dronchi, dronchin@msu.edu
+Jake Waier, waierja1@msu.edu
