@@ -7,3 +7,4 @@ Programming Background: Python, C++
 
 Nicolas Dronchi, dronchin@msu.edu
 Jake Waier, waierja1@msu.edu
+Yitian Fu, fuyitian@msu.edu
