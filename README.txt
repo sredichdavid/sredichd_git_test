@@ -4,3 +4,5 @@ Major: Physics
 School Year: Senior
 From: Flint, Michigan
 Programming Background: Python, C++
+
+Nicolas Dronchi, dronchin@msu.edu
